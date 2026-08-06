@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi 👋 I'm Your Name
@@ -75,4 +74,3 @@ Building high-performance ecommerce platforms, immersive 3D web experiences, and
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:7B61FF&height=120&section=footer"/>
 
 </div>
-```
