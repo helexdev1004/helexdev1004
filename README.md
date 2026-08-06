@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Your Name
+# Hi 👋 I'm Helex
 
 ### 🚀 Full Stack Developer | 🛒 Ecommerce Expert | 🎮 Three.js Creative Developer
 
@@ -51,15 +51,15 @@ Building high-performance ecommerce platforms, immersive 3D web experiences, and
 
 ### 📈 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=helexdev1004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helexdev1004&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helexdev1004&theme=tokyo-night&hide_border=true"/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=helexdev1004&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=helexdev1004&theme=tokyonight&hide_border=true"/>
 
 </div>
 
